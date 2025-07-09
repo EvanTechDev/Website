@@ -1,7 +1,7 @@
 
 ---
 title: "About Tech-Art Studio"
-description: "Learn about Tech-Art Studio's mission, values, and commitment to privacy-first development."
+description: "Learn about Tech-Art Studio's mission, and development."
 date: "2024-01-01"
 type: "page"
 sitemap: true
